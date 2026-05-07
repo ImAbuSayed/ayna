@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ayna/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Ayna](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Ayna](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> আয়নার বুকে আজ নেশা জাগে চোখে
+> অচেনা আবেগে টানে এই বুকে.. বুকে..
+> কাছে এসো আজ সব বাধা ভুলে
+> মাতাল এ রাত যাক ডানা মেলে.. মেলে..
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
