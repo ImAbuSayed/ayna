@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ayna
+
+This log tracks the cryptographic history and versioning for the song **Ayna** (ayna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T15:58:18.674684 | `v1` | `970f5192740f829cd3ed13c1613a34f799e4191fb4e1dbf56d43c4930e6b0d9d` | `2d6cbd2f800c5d3e354313e1d22924af3a2c4892a32b0e5419b9bc3cb2a22f90` | `2026-05-08_ayna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
